@@ -1,6 +1,5 @@
-# TRABAJO PRÁCTICO N°1
-En el siguiente trabajo práctico, se proporcionó un diagrama UML que ilustra diversas entidades y sus relaciones unidireccionales. La tarea principal es codificar dicho diagrama utilizando el framework de Spring Boot, creando entidades, repositorios y representando adecuadamente todas las relaciones utilizando las anotaciones pertinentes de JPA.
+# Persistencia
+En este trabajo práctico, se nos ha entregado un diagrama UML que muestra diversas entidades y sus relaciones unidireccionales. Nuestra principal tarea consiste en traducir este diagrama a código utilizando el framework de Spring Boot. Esto implica la creación de las entidades, los repositorios y la representación adecuada de todas las relaciones utilizando las anotaciones pertinentes de JPA.
 
-### Requerimientos:
-Java 17
+### Java 17:
 
